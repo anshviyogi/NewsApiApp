@@ -1,0 +1,10 @@
+.data{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.links{
+    text-decoration: none;
+    color: black;
+}

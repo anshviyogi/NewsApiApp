@@ -1,0 +1,19 @@
+.contentData{
+    margin-left: 50px;
+}
+
+.contentImage{
+    width: 300px;
+    height: 250px;
+}
+
+.contentText{
+    max-width: 300px;
+}
+
+.items{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 10px;
+}
